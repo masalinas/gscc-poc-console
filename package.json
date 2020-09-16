@@ -19,8 +19,8 @@
     "@angular/platform-browser": "~9.0.2",
     "@angular/platform-browser-dynamic": "~9.0.2",
     "@angular/router": "~9.0.2",
-    "@masalinas/gsbi": "0.0.13",
-    "@masalinas/gspl": "0.0.6",
+    "@masalinas/gsbi": "0.0.21",
+    "@masalinas/gspl": "0.0.7",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"

@@ -1,5 +1,5 @@
 # Description
-This PoC represent a **module angular application** where **modules** (angular libraries) are lazy loaded
+Modular GSSC PoC using Angular Libraries
 
 ## Install a module
 ```bash
